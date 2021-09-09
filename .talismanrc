@@ -1,0 +1,13 @@
+fileignoreconfig:
+- filename: docker-compose.yml
+  checksum: e79b5b291f4402a912cb991b825edda433e7c7eff1b079bbb59605840909252f
+- filename: src/main/resources/postgres-credentials.yml
+  checksum: 0ecccc66007b39183c20b0b9a7004af99135c29b3b155ab48351b9a27a473312
+- filename: src/main/resources/application.yml
+  checksum: e57a85bd8093e79b5993dc84271e7248d4af671750f499685029ce85a928b1de
+- filename: src/main/resources/application.properties
+  checksum: f05d4d91e7c4262385a1873d1eca97c3d7d6d7064a068b2080347e42f89806a4
+- filename: src/main/resources/postgres-deployment.yml
+  checksum: 8cd50b8909e24aa372d8c069cdfdc944a01d7651cbe1beb7aa275d04d0cb4f38
+- filename: src/main/resources/deployment.yml
+  checksum: d478c003178796e65156c9f2bac45f30521b07a9517d1000c78b5bc63ff31801
